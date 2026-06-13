@@ -6,6 +6,16 @@ __pycache__/
 # C extensions
 *.so
 
+models/
+dataset/cardboard
+dataset/glass
+dataset/metal
+dataset/paper
+dataset/plastic
+dataset/trash
+dataset/final_multimodal_dataset.csv
+
+
 # Distribution / packaging
 .Python
 build/
