@@ -2,7 +2,7 @@
 
 An asynchronous, production-grade AI platform that fuses **Computer Vision (Deep Learning)** and **Natural Language Processing (NLP)** to deliver real-time asset pricing valuations for industrial scrap streams. 
 
-Live Demo Link: 
+Live Demo Link: https://scrap-valuation-platform-2.onrender.com
 
 ---
 
